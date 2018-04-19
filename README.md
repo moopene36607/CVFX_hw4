@@ -10,3 +10,5 @@ For step 1, I use bilateral filter from Skimage.
 Python 3.5
 
 skimage 1.3
+
+Numpy 1.14
