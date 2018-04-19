@@ -8,4 +8,5 @@ For step 1, I use bilateral filter from Skimage.
 
 #### Dependency
 Python 3.5
+
 skimage 1.3
